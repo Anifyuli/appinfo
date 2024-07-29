@@ -1,2 +1,3 @@
 # appinfo
-Simple app developed with Flutter to learn native code integration with Flutter
+
+`appinfo` is simple app for understanding native Android code on Flutter app
